@@ -16,6 +16,6 @@
     }
   },
   "dependencies": {
-    "spotify-web-api-node": "^5.0.0"
+    "spotify-web-api-node": "github:sergencug/spotify-web-api-node"
   }
 }
